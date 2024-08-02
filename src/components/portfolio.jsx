@@ -39,7 +39,9 @@ const Portfolio = () => {
                             alt="Weather app"
                             className="w-full h-full object-cover"
                         />
-                        <div className="absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center opacity-0 transition-opacity duration-300 hover:opacity-100">
+                        <div className="absolute inset-0 bg-black bg-opacity-60 flex 
+                            items-center justify-center opacity-0 transition-opacity
+                            duration-300 hover:opacity-100 z-0">
                             <div className="text-white text-center text-lg">
                                 <p className="mb-4">Weather App</p>
                                 <div className="flex flex-row gap-4 justify-center">
