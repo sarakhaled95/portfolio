@@ -3,7 +3,6 @@ import css from "../assets/css.png";
 import html from "../assets/html.png";
 import github from "../assets/github.png";
 import javascript from "../assets/javascript.png";
-import nextjs from "../assets/nextjs.png";
 import node from "../assets/node.png";
 import bootstrap from "../assets/bootstrap.png";
 import tailwind from "../assets/tailwind.png";
